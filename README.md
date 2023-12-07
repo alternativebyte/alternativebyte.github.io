@@ -1,2 +1,2 @@
-# alternativebyte.github.io
-where i put my stuff
+# Context
+Just stuff i fork or something lol
